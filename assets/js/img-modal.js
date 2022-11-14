@@ -3,7 +3,10 @@ const imgMap = {
     "mental-maps" : 'mapas-mentales-desde-cero.jpg',
     "meli-intro" : 'mercadolibre-desde-cero-a-experto.jpg',
     "learn-it" : 'aprendetelo.jpg',
-    "leadership" : 'liderazgo-101.jpg'
+    "leadership" : 'liderazgo-101.jpg',
+    "virtual-dev-show" : 'virtual-dev-show.png',
+    "ciberseguridad" : 'cibreseguridad-en-el-trabajo.png',
+    "perote" : 'congreso-perote.png'
 };
 
 let modal = document.getElementById('myModal');
